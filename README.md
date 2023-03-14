@@ -26,3 +26,5 @@
   ![Snake animation](https://github.com/leochg2021/leochg2021/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+ </br>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/leochg2021/count.svg" /></p>
