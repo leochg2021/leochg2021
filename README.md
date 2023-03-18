@@ -32,4 +32,4 @@
 
 </div>
 </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/leochg2021/count.svg" /></p>
+<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/leochg2021/count.svg" /></p>
